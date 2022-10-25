@@ -1,0 +1,23 @@
+.icons{
+    margin-left: 700px;
+    display: flex;
+    font-size: 30px;
+    margin-bottom: 2%;
+    cursor: pointer;
+    color: black;
+    gap: 1rem;
+}
+
+.image {
+    height:5px;
+    width:5px;
+    margin-right: 20px; 
+}
+
+.image    img {
+    height: 2.3rem;
+    width: 2.3rem;
+    object-fit: cover;
+    border-radius: 20rem;
+
+  }
